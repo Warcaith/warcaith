@@ -8,6 +8,7 @@ function generate() {
         if (err) throw err;
         const output = Mustache.render(data.toString(), null);
         fs.writeFileSync("README.md", output);
+        console.log("done")
     });
 }
 
