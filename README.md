@@ -1,13 +1,8 @@
-<div style="text-align: center; height: 150px;">
-    <img alt="Git" height=100 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-    <h1 style="margin: 0;">
-        Warcaith
-    </h1>
-</div>
+<span>
+    <h1>Warcaith</h1>
+</span>
 
-
-<hr>
-<h2>🧰 <span style="font-size: 14px;">Toolbox<span></h3>
+<h2>🧰 <span>Toolbox<span></h3>
 <p>  
     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
     <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
