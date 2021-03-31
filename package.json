@@ -1,0 +1,30 @@
+{
+  "name": "warcaith",
+  "version": "1.0.0",
+  "description": "Warcaith's README.md @ GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warcaith/warcaith.git"
+  },
+  "author": "Fredrik Karlsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warcaith/warcaith/issues"
+  },
+  "homepage": "https://github.com/Warcaith/warcaith#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
