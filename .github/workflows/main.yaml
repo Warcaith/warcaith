@@ -33,6 +33,6 @@ jobs:
         run: node index.js
 
       - name: Commit and push new README.md to the repository
-        uses: Warcaith/warcaith@main
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
