@@ -39,6 +39,7 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
+    &nbsp;&nbsp;Listened to: Phoenix Down - Zardonic Remix by The Unguided (01 Apr 2021, 00:37)
 </h3>
 
 <br>
