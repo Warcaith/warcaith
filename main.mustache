@@ -51,6 +51,13 @@
 
 <hr>
 
-<br>
-
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>
+
+{{#recentTrack.date}}
+<img alt="Spotify" src="https://img.shields.io/badge/-Listened_to:_{{recentTrack.name}}_by_{{recentTrack.artist}}-18AC4C?style=flat-square&logo=spotify&logoColor=white">
+{{/recentTrack.date}}
+{{^recentTrack.date}}
+<img alt="Spotify" src="https://img.shields.io/badge/-Currently_listening_to:_{{recentTrack.name}}_by_{{recentTrack.artist}}-18AC4C?style=flat-square&logo=spotify&logoColor=white">
+{{/recentTrack.date}}
+
+
