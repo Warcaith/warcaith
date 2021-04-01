@@ -31,9 +31,9 @@ jobs:
 
       - name: Generate README.md file
         run: node index.js
-
+        env:
+          LAST_FM_SECRET: ${{ secrets.LAST_FM_SECRET }}
       - name: Commit and push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LAST_FM_SECRET: ${{ secrets.LAST_FM_SECRET }}
