@@ -39,12 +39,14 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    {{#track.date}}
-    &nbsp;&nbsp;Listened to: {{ recentTrack.name }} by {{ recentTrack.artist }} ({{ recentTrack.date }})
-    {{/track.date}}
-    {{^track.date}}
-    &nbsp;&nbsp;Currently listening to: {{ recentTrack.name }} by {{ recentTrack.artist }}
-    {{/track.date}}
+    {{#track}}
+        {{#date}}
+        &nbsp;&nbsp;Listened to: {{ recentTrack.name }} by {{ recentTrack.artist }} ({{ recentTrack.date }})
+        {{/date}}
+        {{^date}}
+        &nbsp;&nbsp;Currently listening to: {{ recentTrack.name }} by {{ recentTrack.artist }}
+        {{/date}}
+    {{/track}}
 </h3>
 
 <br>
