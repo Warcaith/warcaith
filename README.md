@@ -2,6 +2,15 @@
     <h1>Warcaith</h1>
 </span>
 
+<p>
+    Hello!
+    <br>
+    My name is Fredrik.
+
+    <img align=right height=250 alt="Bitmoji" src="resources/bitmoji.png">
+
+</p>
+
 <h3>⚙️ Toolbox</h3>
 
 <hr>
@@ -40,6 +49,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/static/v1?label=Listened to:&message=Someone Who Cares by Three Days Grace&logo=spotify&labelColor=1DB954&logoColor=white&color=191414">
-
-
+<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Someone Who Cares%20by%20Three Days Grace-191414?logo=spotify&labelColor=1DB954&logoColor=white">
