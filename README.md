@@ -39,7 +39,6 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    &nbsp;&nbsp;Currently listening to: Phoenix Down - Zardonic Remix by The Unguided
 </h3>
 
 <br>
