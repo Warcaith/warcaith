@@ -39,7 +39,7 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    &nbsp;&nbsp;Currently listening to: Solar by Northlane
+    &nbsp;&nbsp;Currently listening to: Kevlarsjäl by Kent
 </h3>
 
 <br>
