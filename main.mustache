@@ -39,27 +39,12 @@
 
 <hr>
 
-<h3> 
-    <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    {{#recentTrack.date}}
-    &nbsp;&nbsp;Listened to: {{ recentTrack.name }} by {{ recentTrack.artist }} ({{ recentTrack.date }})
-    {{/recentTrack.date}}
-    {{^recentTrack.date}}
-    &nbsp;&nbsp;Currently listening to: {{ recentTrack.name }} by {{ recentTrack.artist }}
-    {{/recentTrack.date}}
-</h3>
-
-<hr>
-
-<span>
-    <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>
-    
-    {{#recentTrack.date}}
-    <img alt="Spotify" src="https://img.shields.io/badge/-Listened_to:_{{recentTrack.name}}_by_{{recentTrack.artist}}-18AC4C?logo=spotify&logoColor=white">
-    {{/recentTrack.date}}
-    {{^recentTrack.date}}
-    <img alt="Spotify" src="https://img.shields.io/badge/-Currently_listening_to:_{{recentTrack.name}}_by_{{recentTrack.artist}}-18AC4C?logo=spotify&logoColor=white">
-    {{/recentTrack.date}}
-</span>
+<a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
+{{#recentTrack.date}}
+<img alt="Spotify" src="https://img.shields.io/static/v1?label=Listened to:&message={{recentTrack.name}} by {{recentTrack.artist}}&logo=spotify&labelColor=1DB954&logoColor=white&color=191414">
+{{/recentTrack.date}}
+{{^recentTrack.date}}
+<img alt="Spotify" src="https://img.shields.io/static/v1?label=Currently listening to:&message={{recentTrack.name}} by {{recentTrack.artist}}&logo=spotify&labelColor=1DB954&logoColor=white&color=191414">
+{{/recentTrack.date}}
 
 
