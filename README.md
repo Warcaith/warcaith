@@ -2,8 +2,10 @@
     <h1>Warcaith</h1>
 </span>
 
-<h2>⚙️ Toolbox</h3>
-<br>
+<h3>⚙️ Toolbox</h3>
+
+<hr>
+
 <p>  
     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
     <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
@@ -39,8 +41,10 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    &nbsp;&nbsp;Currently listening to: Yellow by Coldplay
+    &nbsp;&nbsp;Currently listening to: Violent Sleep of Reason by Meshuggah
 </h3>
+
+<hr>
 
 <br>
 
