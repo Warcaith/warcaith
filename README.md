@@ -39,7 +39,7 @@
 
 <h3> 
     <img height=20 src="https://emojis.slackmojis.com/emojis/images/1614284786/14993/music_level.gif?1614284786">
-    <strong>&nbsp;&nbsp;Currently listening to:</strong> Scared by Three Days Grace (30 Mar 2021, 16:02)
+    &nbsp;&nbsp;Currently listening to: Solar by Northlane
 </h3>
 
 <br>

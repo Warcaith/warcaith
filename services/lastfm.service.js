@@ -13,13 +13,17 @@ class LastFMService {
         const response = await fetch(`${this.url}/2.0/?method=${method}&limit=${limit}&user=${this.username}&api_key=${this.secret}&format=json`);
         const data = await response.json();
 
-        return {
+        const track = {
             name: data.recenttracks.track[0].name,
             artist: data.recenttracks.track[0].artist['#text'],
             album: data.recenttracks.track[0].album['#text'],
             cover: data.recenttracks.track[0].image[3]['#text'],
-            date: data.recenttracks.track[0].date['#text']
-        }
+        };
+
+        if (data.recenttracks.track[0].date != null)
+            track.date = data.recenttracks.track[0].date['#text'];
+
+        return track;
     }
 }
 
