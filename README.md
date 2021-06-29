@@ -48,4 +48,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/badge/Currently%20listening%20to:-Act Like You Know%20by%20Fat Larry&#39;s Band-191414?logo=spotify&labelColor=1DB954&logoColor=white">
+<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-All Night Long%20by%20Mary Jane Girls-191414?logo=spotify&labelColor=1DB954&logoColor=white">
