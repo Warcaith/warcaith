@@ -48,4 +48,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/badge/Currently%20listening%20to:-Skog vid midnatt med ljudet av floder - kontinuerliga naturliga ljud för att sova%20by%20Jamie Llewellyn-191414?logo=spotify&labelColor=1DB954&logoColor=white">
+<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Freak on a Leash%20by%20Korn-191414?logo=spotify&labelColor=1DB954&logoColor=white">
