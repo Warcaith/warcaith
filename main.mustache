@@ -5,7 +5,7 @@
 <img align="right" height=250 alt="Bitmoji" src="resources/bitmoji.png">
 
 <p>
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   I've always strived for learning about new things and broaden my knowledge about the world we are living in. My personal opinion is that there's nothing better than being able to apply your own creativity to things that matter, to see things go from an idea to a reality and to really make yourself proud about what you've accomplished.
 </p>
 
 <br><br><br>
