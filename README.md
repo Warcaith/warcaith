@@ -48,4 +48,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Names Mean Nothing%20by%20Carnifex-191414?logo=spotify&labelColor=1DB954&logoColor=white">
+<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Get Low%20by%20Lil Jon &amp; The East Side Boyz-191414?logo=spotify&labelColor=1DB954&logoColor=white">
