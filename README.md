@@ -48,4 +48,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Hoodrich%20by%20Yasin-191414?logo=spotify&labelColor=1DB954&logoColor=white">
+<img alt="Spotify" src="https://img.shields.io/badge/Currently%20listening%20to:-Rubina - Live 1988%20by%20Joe Satriani-191414?logo=spotify&labelColor=1DB954&logoColor=white">
