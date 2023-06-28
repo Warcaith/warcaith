@@ -48,4 +48,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/fredrik-karlsson-9b3aa8139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"></a>   
-<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Reign of Darkness%20by%20Thy Art Is Murder-191414?logo=spotify&labelColor=1DB954&logoColor=white">
+<img alt="Spotify" src="https://img.shields.io/badge/Listened%20to:-Stranded%20by%20Gojira-191414?logo=spotify&labelColor=1DB954&logoColor=white">
